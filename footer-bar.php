@@ -1,7 +1,7 @@
       </div> <!-- /page-wrapper -->
     </div> <!-- /mainContent -->
 <!-- CLEAN </div> -->
-		<footer><p><i class="fas fa-copyright"></i> 2021 <a href="http://rmbinformatica.com" target="_blank">RMB Informática</a> <a href="https://github.com/rmbinformatica/controle-estoque" target="_blank"><i class="fab fa-github"></i></a> | <i class="fas fa-code-branch"></i> <?= VERSAO ?> | <i class="fas fa-database"></i> <?= BANCO ?> | <i class="fas fa-clock"></i> <?= NOW ?></p></footer>
+		<footer><p><i class="fas fa-copyright"></i> 2021 <a href="https://encel.com.br/" target="_blank">Encel Informática</a> <a href="https://encel.com.br/" target="_blank"><i class="fab fa-github"></i></a> | <i class="fas fa-code-branch"></i> <?= VERSAO ?> | <i class="fas fa-database"></i> <?= BANCO ?> | <i class="fas fa-clock"></i> <?= NOW ?></p></footer>
 	</section>
 	<script src="js/jquery.nicescroll.js"></script>
 	<script src="js/scripts.js"></script>
